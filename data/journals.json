@@ -1,0 +1,126 @@
+{
+  "schema": 1,
+  "updated": "2026-10-07",
+  "journals": [
+    {
+      "id": "prs",
+      "name": "Plastic and Reconstructive Surgery",
+      "short": "PRS",
+      "issn": [
+        "0032-1052",
+        "1529-4242"
+      ],
+      "publisher": "Wolters Kluwer",
+      "homepage": "https://journals.lww.com/plasreconsurg",
+      "scope": "intl"
+    },
+    {
+      "id": "jpras",
+      "name": "Journal of Plastic, Reconstructive & Aesthetic Surgery",
+      "short": "JPRAS",
+      "issn": [
+        "1748-6815",
+        "1878-0539"
+      ],
+      "publisher": "Elsevier",
+      "homepage": "https://www.jprasurg.com",
+      "scope": "intl",
+      "volumeOnly": true
+    },
+    {
+      "id": "asj",
+      "name": "Aesthetic Surgery Journal",
+      "short": "ASJ",
+      "issn": [
+        "1090-820X",
+        "1527-330X"
+      ],
+      "publisher": "Oxford University Press",
+      "homepage": "https://academic.oup.com/asj",
+      "scope": "intl"
+    },
+    {
+      "id": "annals",
+      "name": "Annals of Plastic Surgery",
+      "short": "Ann Plast Surg",
+      "issn": [
+        "0148-7043",
+        "1536-3708"
+      ],
+      "publisher": "Wolters Kluwer",
+      "homepage": "https://journals.lww.com/annalsplasticsurgery",
+      "scope": "intl"
+    },
+    {
+      "id": "aps",
+      "name": "Aesthetic Plastic Surgery",
+      "short": "Aesth Plast Surg",
+      "issn": [
+        "0364-216X",
+        "1432-5241"
+      ],
+      "publisher": "Springer Nature",
+      "homepage": "https://link.springer.com/journal/266",
+      "scope": "intl"
+    },
+    {
+      "id": "jrm",
+      "name": "Journal of Reconstructive Microsurgery",
+      "short": "J Reconstr Microsurg",
+      "issn": [
+        "0743-684X",
+        "1098-8947"
+      ],
+      "publisher": "Thieme",
+      "homepage": "https://www.thieme-connect.com/products/ejournals/journal/10.1055/s-00000051",
+      "scope": "intl"
+    },
+    {
+      "id": "micro",
+      "name": "Microsurgery",
+      "short": "Microsurgery",
+      "issn": [
+        "0738-1085",
+        "1098-2752"
+      ],
+      "publisher": "Wiley",
+      "homepage": "https://onlinelibrary.wiley.com/journal/10982752",
+      "scope": "intl"
+    },
+    {
+      "id": "prsgo",
+      "name": "Plastic and Reconstructive Surgery – Global Open",
+      "short": "PRS Global Open",
+      "issn": [
+        "2169-7574"
+      ],
+      "publisher": "Wolters Kluwer",
+      "homepage": "https://journals.lww.com/prsgo",
+      "scope": "intl"
+    },
+    {
+      "id": "jhs",
+      "name": "The Journal of Hand Surgery (American Volume)",
+      "short": "J Hand Surg Am",
+      "issn": [
+        "0363-5023",
+        "1531-6564"
+      ],
+      "publisher": "Elsevier",
+      "homepage": "https://www.jhandsurg.org",
+      "scope": "intl"
+    },
+    {
+      "id": "tjps",
+      "name": "Turkish Journal of Plastic Surgery",
+      "short": "Turk J Plast Surg",
+      "issn": [
+        "1300-6878",
+        "2528-8644"
+      ],
+      "publisher": "Wolters Kluwer – Medknow",
+      "homepage": "https://journals.lww.com/tjps/Pages/default.aspx",
+      "scope": "tr"
+    }
+  ]
+}

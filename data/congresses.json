@@ -1,0 +1,288 @@
+{
+  "schema": 1,
+  "updated": "2026-10-07",
+  "checkedBy": "Claude (Cowork) — resmi sitelerden",
+  "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
+  "congresses": [
+    {
+      "id": "asps",
+      "scope": "intl",
+      "short": "ASPS · PSTM",
+      "name": "Plastic Surgery The Meeting (ASPS)",
+      "society": "American Society of Plastic Surgeons",
+      "societyUrl": "https://www.plasticsurgery.org",
+      "area": "plastic",
+      "editions": [
+        {
+          "name": "Plastic Surgery The Meeting 2026",
+          "start": "2026-10-15",
+          "end": "2026-10-18",
+          "city": "Houston",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.plasticsurgerythemeeting.com/",
+          "abstractDeadline": null,
+          "note": null,
+          "sources": [
+            "https://www.plasticsurgery.org/for-medical-professionals/education/events/symposia-calendar"
+          ]
+        },
+        {
+          "name": "Plastic Surgery The Meeting 2027",
+          "start": "2027-09-16",
+          "end": "2027-09-19",
+          "city": "Baltimore",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.plasticsurgerythemeeting.com/",
+          "abstractDeadline": null,
+          "note": {
+            "tr": "Eğitim oturumu önerileri (kurs/panel) için son tarih 23.11.2026; bildiri son tarihi açıklanmadı.",
+            "en": "Educational proposals (courses/panels) close 23 Nov 2026; abstract deadline not announced."
+          },
+          "sources": [
+            "https://www.plasticsurgery.org/for-medical-professionals/education/events/symposia-calendar",
+            "https://www.plasticsurgerythemeeting.com/programming/2027-educational-proposals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aesthetic",
+      "scope": "intl",
+      "short": "The Aesthetic Society",
+      "name": "The Aesthetic MEET (The Aesthetic Society)",
+      "society": "The Aesthetic Society",
+      "societyUrl": "https://www.theaestheticsociety.org",
+      "area": "aesthetic",
+      "editions": [
+        {
+          "name": "The Aesthetic MEET 2027",
+          "start": "2027-04-15",
+          "end": "2027-04-18",
+          "city": "Miami Beach",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.theaestheticsociety.org/medical-professionals/meetings",
+          "abstractDeadline": null,
+          "note": {
+            "tr": "Bildiri gönderimi 15.10.2026'da açılıyor; son tarih açıklanmadı.",
+            "en": "Abstract submission opens 15 Oct 2026; deadline not announced."
+          },
+          "sources": [
+            "https://www.theaestheticsociety.org/medical-professionals/meetings",
+            "https://www.theaestheticsociety.org/call-abstracts"
+          ]
+        },
+        {
+          "name": "The Aesthetic MEET 2028",
+          "start": "2028-03-30",
+          "end": "2028-04-02",
+          "city": "New York",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.theaestheticsociety.org/medical-professionals/meetings",
+          "abstractDeadline": null,
+          "note": null,
+          "sources": [
+            "https://www.theaestheticsociety.org/medical-professionals/meetings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "isaps",
+      "scope": "intl",
+      "short": "ISAPS",
+      "name": "ISAPS World Congress",
+      "society": "International Society of Aesthetic Plastic Surgery",
+      "societyUrl": "https://www.isaps.org",
+      "area": "aesthetic",
+      "editions": [
+        {
+          "name": "ISAPS World Congress 2026",
+          "start": "2026-10-27",
+          "end": "2026-10-31",
+          "city": "Cancún",
+          "country": {
+            "tr": "Meksika",
+            "en": "Mexico"
+          },
+          "url": "https://isaps.org/education/events/world-congress-2026-cancun",
+          "abstractDeadline": "2026-01-23",
+          "note": null,
+          "sources": [
+            "https://isaps.org/education/events/world-congress-2026-cancun",
+            "https://www.isaps.org/education/events/world-congress-2026-cancun/abstracts/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icoplast",
+      "scope": "intl",
+      "short": "ICOPLAST (IPRAS)",
+      "name": "ICOPLAST World Congress",
+      "society": "International Confederation of Plastic Surgery Societies (ICOPLAST)",
+      "societyUrl": "https://www.icoplast.org",
+      "area": "plastic",
+      "editions": [
+        {
+          "name": "4th ICOPLAST World Congress 2027 & DGPRÄC",
+          "start": "2027-06-24",
+          "end": "2027-06-26",
+          "city": "Berlin",
+          "country": {
+            "tr": "Almanya",
+            "en": "Germany"
+          },
+          "url": "https://www.icoplast-dgpraec-2027.com/",
+          "abstractDeadline": "2026-10-15",
+          "note": null,
+          "sources": [
+            "https://www.icoplast-dgpraec-2027.com/",
+            "https://www.icoplast-dgpraec-2027.com/call-for-abstracts/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "euraps",
+      "scope": "intl",
+      "short": "EURAPS",
+      "name": "EURAPS Annual Meeting",
+      "society": "European Association of Plastic Surgeons",
+      "societyUrl": "https://www.euraps.org",
+      "area": "plastic",
+      "editions": [
+        {
+          "name": "EURAPS Meeting 2027",
+          "start": null,
+          "end": null,
+          "city": "Genova",
+          "country": {
+            "tr": "İtalya",
+            "en": "Italy"
+          },
+          "url": "https://www.euraps.org/meetings/upcoming-meeting/euraps-meeting-2027/",
+          "abstractDeadline": null,
+          "note": null,
+          "sources": [
+            "https://www.euraps.org/meetings/upcoming-meeting/euraps-meeting-2027/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espras",
+      "scope": "intl",
+      "short": "ESPRAS",
+      "name": "ESPRAS European Congress",
+      "society": "European Society of Plastic, Reconstructive and Aesthetic Surgery",
+      "societyUrl": "https://www.espras.org",
+      "area": "plastic",
+      "editions": []
+    },
+    {
+      "id": "wsrm",
+      "scope": "intl",
+      "short": "WSRM",
+      "name": "WSRM Congress",
+      "society": "World Society for Reconstructive Microsurgery",
+      "societyUrl": "https://wsrm.net/",
+      "area": "micro",
+      "editions": [
+        {
+          "name": "14th WSRM Congress 2027",
+          "start": "2027-06-03",
+          "end": "2027-06-05",
+          "city": "İstanbul",
+          "country": {
+            "tr": "Türkiye",
+            "en": "Türkiye"
+          },
+          "url": "https://www.wsrm2027.com/",
+          "abstractDeadline": "2026-12-01",
+          "note": null,
+          "sources": [
+            "https://www.wsrm2027.com/important-dates"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "asrm",
+      "scope": "intl",
+      "short": "ASRM",
+      "name": "ASRM Annual Meeting",
+      "society": "American Society for Reconstructive Microsurgery",
+      "societyUrl": "https://www.microsurg.org",
+      "area": "micro",
+      "editions": [
+        {
+          "name": "2027 ASRM Annual Meeting (AAHS/ASPN/ASRM)",
+          "start": "2027-01-29",
+          "end": "2027-02-02",
+          "city": "Aventura (Miami)",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.microsurg.org/upcoming-annual-meeting",
+          "abstractDeadline": "2026-07-16",
+          "note": null,
+          "sources": [
+            "https://www.microsurg.org/upcoming-annual-meeting",
+            "https://aahsaspnasrm.confex.com/aahsaspnasrm/2027/cfp.cgi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tprecd",
+      "scope": "tr",
+      "short": "TPRECD",
+      "name": "TPRECD Ulusal Kurultayı",
+      "society": "Türk Plastik, Rekonstrüktif ve Estetik Cerrahi Derneği",
+      "societyUrl": "https://www.plastikcerrahi.org.tr",
+      "area": "plastic",
+      "editions": [
+        {
+          "name": "TPRECD 48. Ulusal Kurultayı",
+          "start": "2026-10-21",
+          "end": "2026-10-25",
+          "city": "Antalya",
+          "country": {
+            "tr": "Türkiye",
+            "en": "Türkiye"
+          },
+          "url": "https://tprecd2026.org/",
+          "abstractDeadline": "2026-08-31",
+          "note": null,
+          "sources": [
+            "https://tprecd2026.org/",
+            "https://tprecd2026.org/bildiri.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rmcd",
+      "scope": "tr",
+      "short": "RMCD",
+      "name": "Ulusal Rekonstrüktif Mikrocerrahi Kongresi",
+      "society": "Rekonstrüktif Mikrocerrahi Derneği",
+      "societyUrl": "https://rmcd.org.tr/",
+      "area": "micro",
+      "editions": []
+    }
+  ]
+}
