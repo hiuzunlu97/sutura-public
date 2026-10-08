@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "journals": [
     {
       "id": "prs",
@@ -12,7 +12,9 @@
       ],
       "publisher": "Wolters Kluwer",
       "homepage": "https://journals.lww.com/plasreconsurg",
-      "scope": "intl"
+      "scope": "intl",
+      "q": "Q1",
+      "area": "plastic"
     },
     {
       "id": "jpras",
@@ -25,7 +27,9 @@
       "publisher": "Elsevier",
       "homepage": "https://www.jprasurg.com",
       "scope": "intl",
-      "volumeOnly": true
+      "volumeOnly": true,
+      "q": "Q1",
+      "area": "plastic"
     },
     {
       "id": "asj",
@@ -37,7 +41,9 @@
       ],
       "publisher": "Oxford University Press",
       "homepage": "https://academic.oup.com/asj",
-      "scope": "intl"
+      "scope": "intl",
+      "q": "Q1",
+      "area": "aesthetic"
     },
     {
       "id": "annals",
@@ -49,7 +55,9 @@
       ],
       "publisher": "Wolters Kluwer",
       "homepage": "https://journals.lww.com/annalsplasticsurgery",
-      "scope": "intl"
+      "scope": "intl",
+      "q": "Q2",
+      "area": "plastic"
     },
     {
       "id": "aps",
@@ -61,7 +69,9 @@
       ],
       "publisher": "Springer Nature",
       "homepage": "https://link.springer.com/journal/266",
-      "scope": "intl"
+      "scope": "intl",
+      "q": "Q1",
+      "area": "aesthetic"
     },
     {
       "id": "jrm",
@@ -73,7 +83,9 @@
       ],
       "publisher": "Thieme",
       "homepage": "https://www.thieme-connect.com/products/ejournals/journal/10.1055/s-00000051",
-      "scope": "intl"
+      "scope": "intl",
+      "q": "Q1",
+      "area": "micro"
     },
     {
       "id": "micro",
@@ -85,7 +97,9 @@
       ],
       "publisher": "Wiley",
       "homepage": "https://onlinelibrary.wiley.com/journal/10982752",
-      "scope": "intl"
+      "scope": "intl",
+      "q": "Q1",
+      "area": "micro"
     },
     {
       "id": "prsgo",
@@ -96,7 +110,10 @@
       ],
       "publisher": "Wolters Kluwer",
       "homepage": "https://journals.lww.com/prsgo",
-      "scope": "intl"
+      "scope": "intl",
+      "q": "Q1",
+      "area": "plastic",
+      "continuous": true
     },
     {
       "id": "jhs",
@@ -108,7 +125,9 @@
       ],
       "publisher": "Elsevier",
       "homepage": "https://www.jhandsurg.org",
-      "scope": "intl"
+      "scope": "intl",
+      "q": "Q1",
+      "area": "hand"
     },
     {
       "id": "tjps",
@@ -118,9 +137,406 @@
         "1300-6878",
         "2528-8644"
       ],
-      "publisher": "Wolters Kluwer – Medknow",
-      "homepage": "https://journals.lww.com/tjps/Pages/default.aspx",
-      "scope": "tr"
+      "publisher": "Wolters Kluwer – Medknow (Ovid)",
+      "homepage": "https://www.ovid.com/jnls/tjps",
+      "scope": "tr",
+      "q": "Q4",
+      "area": "plastic",
+      "ovid": "tjps"
+    },
+    {
+      "id": "cps",
+      "name": "Clinics in Plastic Surgery",
+      "short": "Clin Plast Surg",
+      "issn": [
+        "0094-1298",
+        "1558-0504"
+      ],
+      "publisher": "Elsevier",
+      "homepage": "https://www.plasticsurgery.theclinics.com",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "plastic"
+    },
+    {
+      "id": "par",
+      "name": "Plastic and Aesthetic Research",
+      "short": "Plast Aesthet Res",
+      "issn": [
+        "2347-9264",
+        "2349-6150"
+      ],
+      "publisher": "OAE Publishing",
+      "homepage": "https://www.oaepublish.com/par",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "plastic",
+      "continuous": true
+    },
+    {
+      "id": "archps",
+      "name": "Archives of Plastic Surgery",
+      "short": "Arch Plast Surg",
+      "issn": [
+        "2234-6163",
+        "2234-6171"
+      ],
+      "publisher": "Thieme",
+      "homepage": "https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00051611",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "plastic"
+    },
+    {
+      "id": "sps",
+      "name": "Seminars in Plastic Surgery",
+      "short": "Semin Plast Surg",
+      "issn": [
+        "1535-2188",
+        "1536-0067"
+      ],
+      "publisher": "Thieme",
+      "homepage": "https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00000051",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "plastic"
+    },
+    {
+      "id": "jprasopen",
+      "name": "JPRAS Open",
+      "short": "JPRAS Open",
+      "issn": [
+        "2352-5878"
+      ],
+      "publisher": "Elsevier",
+      "homepage": "https://www.sciencedirect.com/journal/jpras-open",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "plastic",
+      "volumeOnly": true
+    },
+    {
+      "id": "psc",
+      "name": "Plastic Surgery / Chirurgie Plastique",
+      "short": "Plast Surg (Oakv)",
+      "issn": [
+        "2292-5503",
+        "2292-5511"
+      ],
+      "publisher": "Sage",
+      "homepage": "https://journals.sagepub.com/home/psg",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "plastic"
+    },
+    {
+      "id": "fpsam",
+      "name": "Facial Plastic Surgery & Aesthetic Medicine",
+      "short": "Facial Plast Surg Aesthet Med",
+      "issn": [
+        "2689-3614",
+        "2689-3622"
+      ],
+      "publisher": "Sage (Mary Ann Liebert)",
+      "homepage": "https://journals.sagepub.com/home/fps",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "aesthetic"
+    },
+    {
+      "id": "fpscna",
+      "name": "Facial Plastic Surgery Clinics of North America",
+      "short": "Facial Plast Surg Clin N Am",
+      "issn": [
+        "1064-7406",
+        "1558-1926"
+      ],
+      "publisher": "Elsevier",
+      "homepage": "https://www.facialplastic.theclinics.com",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "aesthetic"
+    },
+    {
+      "id": "fps",
+      "name": "Facial Plastic Surgery",
+      "short": "Facial Plast Surg",
+      "issn": [
+        "0736-6825",
+        "1098-8793"
+      ],
+      "publisher": "Thieme",
+      "homepage": "https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00000018",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "aesthetic"
+    },
+    {
+      "id": "jhse",
+      "name": "Journal of Hand Surgery (European Volume)",
+      "short": "J Hand Surg Eur",
+      "issn": [
+        "1753-1934",
+        "2043-6289"
+      ],
+      "publisher": "Sage",
+      "homepage": "https://journals.sagepub.com/home/jhs",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "hand"
+    },
+    {
+      "id": "hand",
+      "name": "HAND",
+      "short": "HAND",
+      "issn": [
+        "1558-9447",
+        "1558-9455"
+      ],
+      "publisher": "Sage",
+      "homepage": "https://journals.sagepub.com/home/han",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "hand"
+    },
+    {
+      "id": "hcl",
+      "name": "Hand Clinics",
+      "short": "Hand Clin",
+      "issn": [
+        "0749-0712",
+        "1558-1969"
+      ],
+      "publisher": "Elsevier",
+      "homepage": "https://www.hand.theclinics.com",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "hand"
+    },
+    {
+      "id": "jpshs",
+      "name": "Journal of Plastic Surgery and Hand Surgery",
+      "short": "J Plast Surg Hand Surg",
+      "issn": [
+        "2000-656X",
+        "2000-6764"
+      ],
+      "publisher": "Medical Journals Sweden",
+      "homepage": "https://medicaljournalssweden.se/JPHS",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "hand",
+      "continuous": true
+    },
+    {
+      "id": "hsr",
+      "name": "Hand Surgery and Rehabilitation",
+      "short": "Hand Surg Rehabil",
+      "issn": [
+        "2468-1229",
+        "2468-1210"
+      ],
+      "publisher": "Elsevier",
+      "homepage": "https://www.sciencedirect.com/journal/hand-surgery-and-rehabilitation",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "hand"
+    },
+    {
+      "id": "jhsgo",
+      "name": "Journal of Hand Surgery Global Online",
+      "short": "J Hand Surg Glob Online",
+      "issn": [
+        "2589-5141"
+      ],
+      "publisher": "Elsevier",
+      "homepage": "https://www.jhsgo.org",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "hand"
+    },
+    {
+      "id": "cpcj",
+      "name": "The Cleft Palate Craniofacial Journal",
+      "short": "Cleft Palate Craniofac J",
+      "issn": [
+        "1055-6656",
+        "1545-1569"
+      ],
+      "publisher": "Sage",
+      "homepage": "https://journals.sagepub.com/home/cpc",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "cranio"
+    },
+    {
+      "id": "jcs",
+      "name": "Journal of Craniofacial Surgery",
+      "short": "J Craniofac Surg",
+      "issn": [
+        "1049-2275",
+        "1536-3732"
+      ],
+      "publisher": "Wolters Kluwer",
+      "homepage": "https://journals.lww.com/jcraniofacialsurgery",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "cranio"
+    },
+    {
+      "id": "jcms",
+      "name": "Journal of Cranio-Maxillofacial Surgery",
+      "short": "J Craniomaxillofac Surg",
+      "issn": [
+        "1010-5182",
+        "1878-4119"
+      ],
+      "publisher": "Elsevier",
+      "homepage": "https://www.sciencedirect.com/journal/journal-of-cranio-maxillofacial-surgery",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "cranio"
+    },
+    {
+      "id": "acfs",
+      "name": "Archives of Craniofacial Surgery",
+      "short": "Arch Craniofac Surg",
+      "issn": [
+        "2287-1152",
+        "2287-5603"
+      ],
+      "publisher": "Korean Cleft Palate-Craniofacial Association",
+      "homepage": "https://www.e-acfs.org",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "cranio"
+    },
+    {
+      "id": "burns",
+      "name": "Burns",
+      "short": "Burns",
+      "issn": [
+        "0305-4179",
+        "1879-1409"
+      ],
+      "publisher": "Elsevier",
+      "homepage": "https://www.sciencedirect.com/journal/burns",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "burn"
+    },
+    {
+      "id": "bt",
+      "name": "Burns & Trauma",
+      "short": "Burns Trauma",
+      "issn": [
+        "2321-3868",
+        "2321-3876"
+      ],
+      "publisher": "Oxford University Press",
+      "homepage": "https://academic.oup.com/burnstrauma",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "burn",
+      "continuous": true
+    },
+    {
+      "id": "jbcr",
+      "name": "Journal of Burn Care & Research",
+      "short": "J Burn Care Res",
+      "issn": [
+        "1559-047X",
+        "1559-0488"
+      ],
+      "publisher": "Oxford University Press",
+      "homepage": "https://academic.oup.com/jbcr",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "burn"
+    },
+    {
+      "id": "wrr",
+      "name": "Wound Repair and Regeneration",
+      "short": "Wound Repair Regen",
+      "issn": [
+        "1067-1927",
+        "1524-475X"
+      ],
+      "publisher": "Wiley",
+      "homepage": "https://onlinelibrary.wiley.com/journal/1524475x",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "wound"
+    },
+    {
+      "id": "iwj",
+      "name": "International Wound Journal",
+      "short": "Int Wound J",
+      "issn": [
+        "1742-4801",
+        "1742-481X"
+      ],
+      "publisher": "Wiley",
+      "homepage": "https://onlinelibrary.wiley.com/journal/1742481x",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "wound"
+    },
+    {
+      "id": "awc",
+      "name": "Advances in Wound Care",
+      "short": "Adv Wound Care",
+      "issn": [
+        "2162-1918",
+        "2162-1934"
+      ],
+      "publisher": "Sage (Mary Ann Liebert)",
+      "homepage": "https://journals.sagepub.com/home/wnd",
+      "scope": "intl",
+      "q": "Q1",
+      "area": "wound"
+    },
+    {
+      "id": "ijlew",
+      "name": "The International Journal of Lower Extremity Wounds",
+      "short": "Int J Low Extrem Wounds",
+      "issn": [
+        "1534-7346",
+        "1552-6941"
+      ],
+      "publisher": "Sage",
+      "homepage": "https://journals.sagepub.com/home/ijl",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "wound"
+    },
+    {
+      "id": "jwc",
+      "name": "Journal of Wound Care",
+      "short": "J Wound Care",
+      "issn": [
+        "0969-0700",
+        "2052-2916"
+      ],
+      "publisher": "MA Healthcare",
+      "homepage": "https://www.magonlinelibrary.com/journal/jowc",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "wound"
+    },
+    {
+      "id": "aswc",
+      "name": "Advances in Skin & Wound Care",
+      "short": "Adv Skin Wound Care",
+      "issn": [
+        "1527-7941",
+        "1538-8654"
+      ],
+      "publisher": "Wolters Kluwer",
+      "homepage": "https://www.ovid.com/jnls/aswcjournal",
+      "scope": "intl",
+      "q": "Q2",
+      "area": "wound"
     }
   ]
 }
