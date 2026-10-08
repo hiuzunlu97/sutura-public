@@ -130,21 +130,6 @@
       "area": "hand"
     },
     {
-      "id": "tjps",
-      "name": "Turkish Journal of Plastic Surgery",
-      "short": "Turk J Plast Surg",
-      "issn": [
-        "1300-6878",
-        "2528-8644"
-      ],
-      "publisher": "Wolters Kluwer – Medknow (Ovid)",
-      "homepage": "https://www.ovid.com/jnls/tjps",
-      "scope": "tr",
-      "q": "Q4",
-      "area": "plastic",
-      "ovid": "tjps"
-    },
-    {
       "id": "cps",
       "name": "Clinics in Plastic Surgery",
       "short": "Clin Plast Surg",
