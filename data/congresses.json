@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "checkedBy": "Claude (Cowork) — resmi sitelerden",
   "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
   "congresses": [
@@ -165,8 +165,8 @@
       "editions": [
         {
           "name": "EURAPS Meeting 2027",
-          "start": null,
-          "end": null,
+          "start": "2027-05-26",
+          "end": "2027-05-29",
           "city": "Genova",
           "country": {
             "tr": "İtalya",
@@ -174,7 +174,10 @@
           },
           "url": "https://www.euraps.org/meetings/upcoming-meeting/euraps-meeting-2027/",
           "abstractDeadline": null,
-          "note": null,
+          "note": {
+            "tr": "Bildiri çağrısı kapandı.",
+            "en": "Call for abstracts is closed."
+          },
           "sources": [
             "https://www.euraps.org/meetings/upcoming-meeting/euraps-meeting-2027/"
           ]
