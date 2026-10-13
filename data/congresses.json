@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "checkedBy": "Claude (Cowork) — resmi sitelerden",
   "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
   "congresses": [
@@ -72,8 +72,8 @@
           "url": "https://www.theaestheticsociety.org/medical-professionals/meetings",
           "abstractDeadline": null,
           "note": {
-            "tr": "Bildiri gönderimi 15.10.2026'da açılıyor; son tarih açıklanmadı.",
-            "en": "Abstract submission opens 15 Oct 2026; deadline not announced."
+            "tr": "Bildiri gönderimi 01.11.2026'da açılıyor; son tarih açıklanmadı.",
+            "en": "Abstract submission opens 1 Nov 2026; deadline not announced."
           },
           "sources": [
             "https://www.theaestheticsociety.org/medical-professionals/meetings",
