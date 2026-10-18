@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-13",
+  "updated": "2026-10-18",
   "checkedBy": "Claude (Cowork) — resmi sitelerden",
   "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
   "congresses": [
@@ -145,8 +145,11 @@
             "en": "Germany"
           },
           "url": "https://www.icoplast-dgpraec-2027.com/",
-          "abstractDeadline": "2026-10-15",
-          "note": null,
+          "abstractDeadline": "2026-10-26",
+          "note": {
+            "tr": "Uzatıldı: bildiri son tarihi 26.10.2026.",
+            "en": "Extended: abstract deadline 26 Oct 2026."
+          },
           "sources": [
             "https://www.icoplast-dgpraec-2027.com/",
             "https://www.icoplast-dgpraec-2027.com/call-for-abstracts/"
