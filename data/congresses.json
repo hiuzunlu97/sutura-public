@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-18",
+  "updated": "2026-10-20",
   "checkedBy": "Claude (Cowork) — resmi sitelerden",
   "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
   "congresses": [
@@ -47,6 +47,22 @@
           "sources": [
             "https://www.plasticsurgery.org/for-medical-professionals/education/events/symposia-calendar",
             "https://www.plasticsurgerythemeeting.com/programming/2027-educational-proposals"
+          ]
+        },
+        {
+          "name": "Plastic Surgery The Meeting 2028",
+          "start": "2028-10-12",
+          "end": "2028-10-15",
+          "city": "Los Angeles",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.plasticsurgerythemeeting.com/",
+          "abstractDeadline": null,
+          "note": null,
+          "sources": [
+            "https://www.plasticsurgery.org/for-medical-professionals/education/events/symposia-calendar"
           ]
         }
       ]
