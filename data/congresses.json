@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-21",
+  "updated": "2026-10-23",
   "checkedBy": "Claude (Cowork) — resmi sitelerden",
   "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
   "congresses": [
@@ -54,6 +54,22 @@
           "start": "2028-10-12",
           "end": "2028-10-15",
           "city": "Los Angeles",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.plasticsurgerythemeeting.com/",
+          "abstractDeadline": null,
+          "note": null,
+          "sources": [
+            "https://www.plasticsurgery.org/for-medical-professionals/education/events/symposia-calendar"
+          ]
+        },
+        {
+          "name": "Plastic Surgery The Meeting 2029",
+          "start": "2029-09-27",
+          "end": "2029-09-30",
+          "city": "Orlando",
           "country": {
             "tr": "ABD",
             "en": "USA"
@@ -211,7 +227,25 @@
       "society": "European Society of Plastic, Reconstructive and Aesthetic Surgery",
       "societyUrl": "https://www.espras.org",
       "area": "plastic",
-      "editions": []
+      "editions": [
+        {
+          "name": "ESPRAS Quadrennial Congress 2026",
+          "start": "2026-09-03",
+          "end": "2026-09-05",
+          "city": "Bern",
+          "country": {
+            "tr": "İsviçre",
+            "en": "Switzerland"
+          },
+          "url": "https://espras2026.meister-concept.ch/",
+          "abstractDeadline": null,
+          "note": null,
+          "sources": [
+            "https://espras.org/meeting-calendar/",
+            "https://espras2026.meister-concept.ch/"
+          ]
+        }
+      ]
     },
     {
       "id": "wsrm",
