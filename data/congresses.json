@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "checkedBy": "Claude (Cowork) — resmi sitelerden",
   "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
   "congresses": [
@@ -70,6 +70,22 @@
           "start": "2029-09-27",
           "end": "2029-09-30",
           "city": "Orlando",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.plasticsurgerythemeeting.com/",
+          "abstractDeadline": null,
+          "note": null,
+          "sources": [
+            "https://www.plasticsurgery.org/for-medical-professionals/education/events/symposia-calendar"
+          ]
+        },
+        {
+          "name": "Plastic Surgery The Meeting 2030",
+          "start": "2030-09-19",
+          "end": "2030-09-22",
+          "city": "Phoenix",
           "country": {
             "tr": "ABD",
             "en": "USA"
