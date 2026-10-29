@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "checkedBy": "Claude (Cowork) — resmi sitelerden",
   "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
   "congresses": [
@@ -112,17 +112,14 @@
           "name": "The Aesthetic MEET 2027",
           "start": "2027-04-15",
           "end": "2027-04-18",
-          "city": "Miami",
+          "city": "Miami Beach",
           "country": {
             "tr": "ABD",
             "en": "USA"
           },
           "url": "https://www.theaestheticsociety.org/medical-professionals/meetings",
-          "abstractDeadline": null,
-          "note": {
-            "tr": "Bildiri gönderimi 01.11.2026'da açılıyor; son tarih açıklanmadı.",
-            "en": "Abstract submission opens 1 Nov 2026; deadline not announced."
-          },
+          "abstractDeadline": "2027-01-06",
+          "note": null,
           "sources": [
             "https://www.theaestheticsociety.org/medical-professionals/meetings",
             "https://www.theaestheticsociety.org/call-abstracts"
