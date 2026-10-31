@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "checkedBy": "Claude (Cowork) — resmi sitelerden",
   "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
   "congresses": [
@@ -86,6 +86,54 @@
           "start": "2030-09-19",
           "end": "2030-09-22",
           "city": "Phoenix",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.plasticsurgerythemeeting.com/",
+          "abstractDeadline": null,
+          "note": null,
+          "sources": [
+            "https://www.plasticsurgery.org/for-medical-professionals/education/events/symposia-calendar"
+          ]
+        },
+        {
+          "name": "Plastic Surgery The Meeting 2031",
+          "start": "2031-10-16",
+          "end": "2031-10-19",
+          "city": "Boston",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.plasticsurgerythemeeting.com/",
+          "abstractDeadline": null,
+          "note": null,
+          "sources": [
+            "https://www.plasticsurgery.org/for-medical-professionals/education/events/symposia-calendar"
+          ]
+        },
+        {
+          "name": "Plastic Surgery The Meeting 2032",
+          "start": "2032-09-30",
+          "end": "2032-10-03",
+          "city": "Anaheim",
+          "country": {
+            "tr": "ABD",
+            "en": "USA"
+          },
+          "url": "https://www.plasticsurgerythemeeting.com/",
+          "abstractDeadline": null,
+          "note": null,
+          "sources": [
+            "https://www.plasticsurgery.org/for-medical-professionals/education/events/symposia-calendar"
+          ]
+        },
+        {
+          "name": "Plastic Surgery The Meeting 2033",
+          "start": "2033-10-13",
+          "end": "2033-10-16",
+          "city": "Indianapolis",
           "country": {
             "tr": "ABD",
             "en": "USA"
