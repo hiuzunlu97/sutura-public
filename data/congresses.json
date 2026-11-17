@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "checkedBy": "Claude (Cowork) — resmi sitelerden",
   "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
   "congresses": [
@@ -340,8 +340,11 @@
             "en": "Türkiye"
           },
           "url": "https://www.wsrm2027.com/",
-          "abstractDeadline": "2026-12-01",
-          "note": null,
+          "abstractDeadline": "2027-02-28",
+          "note": {
+            "tr": "Bildiri gönderimi 01.12.2026'da açılıyor; son tarih 28.02.2027.",
+            "en": "Abstract submission opens 1 Dec 2026; deadline 28 Feb 2027."
+          },
           "sources": [
             "https://www.wsrm2027.com/important-dates"
           ]
