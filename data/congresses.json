@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "checkedBy": "Claude (Cowork) — resmi sitelerden",
   "note": "Tarih resmi sitede yoksa null bırakılır; tahmin edilmez.",
   "congresses": [
@@ -231,6 +231,26 @@
           "sources": [
             "https://isaps.org/education/events/world-congress-2026-cancun",
             "https://www.isaps.org/education/events/world-congress-2026-cancun/abstracts/"
+          ]
+        },
+        {
+          "name": "ISAPS Olympiad World Congress 2027",
+          "start": "2027-09-01",
+          "end": "2027-09-04",
+          "city": "London",
+          "country": {
+            "tr": "Birleşik Krallık",
+            "en": "United Kingdom"
+          },
+          "url": "https://www.isaps.org/education/events/olympiad-london-2027/",
+          "abstractDeadline": "2027-02-26",
+          "note": {
+            "tr": "Bildiri gönderimi 01.12.2026'da açılıyor; son tarih 26.02.2027.",
+            "en": "Abstract submission opens 1 Dec 2026; deadline 26 Feb 2027."
+          },
+          "sources": [
+            "https://www.isaps.org/education/events/",
+            "https://www.isaps.org/education/events/olympiad-london-2027/"
           ]
         }
       ]
